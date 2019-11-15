@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-15T06:20:33.536Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="sfBp0RbIj1VVyJ2ghIrY" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-15T06:37:59.583Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="CqEFEYP8Qd2uxENxaBcc" version="12.2.6" type="github" pages="1">
   <diagram id="j1-LDET8rls20Wv6w2DN" name="第 1 页">
     <mxGraphModel dx="932" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="OJRDX98korGpdsTEZYuh-12" value="社区" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="OJRDX98korGpdsTEZYuh-13" value="注册制组件通讯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+        <mxCell id="OJRDX98korGpdsTEZYuh-13" value="注册制组件通讯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="210" y="240" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="OJRDX98korGpdsTEZYuh-14" value="VIP选角" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
         <mxCell id="f2LhMHIkjv8fJi7TV8YS-1" value="xcrash" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="390" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="f2LhMHIkjv8fJi7TV8YS-2" value="发表评论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" vertex="1" parent="1">
+        <mxCell id="f2LhMHIkjv8fJi7TV8YS-2" value="发表评论" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="365" y="390" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="f2LhMHIkjv8fJi7TV8YS-3" value="播放" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="f2LhMHIkjv8fJi7TV8YS-4" value="网络库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="480" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="OJRDX98korGpdsTEZYuh-20" value="数据投递" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" parent="1" vertex="1">
+        <mxCell id="OJRDX98korGpdsTEZYuh-20" value="数据投递" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
