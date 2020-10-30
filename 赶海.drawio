@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-10-30T10:29:27.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="c4q5eMqu5NuaSvtEO5eF" version="13.7.3" type="github">
+<mxfile host="www.draw.io" modified="2020-10-30T10:32:10.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="2owHtgKGrvHIwJFXNDTg" version="13.7.3" type="github">
   <diagram id="iloBVElaY7iQLS_CqcDA" name="第 1 页">
     <mxGraphModel dx="932" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -147,14 +147,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ugmz32tfJayoeNNLECNe-29" value="体力值 = N （支持N次的免费hunter)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ugmz32tfJayoeNNLECNe-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ugmz32tfJayoeNNLECNe-29" target="ugmz32tfJayoeNNLECNe-1">
+        <mxCell id="ugmz32tfJayoeNNLECNe-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="ugmz32tfJayoeNNLECNe-33" target="ugmz32tfJayoeNNLECNe-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="580" as="sourcePoint" />
+            <mxPoint x="160" y="470" as="sourcePoint" />
             <mxPoint x="140" y="530" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ugmz32tfJayoeNNLECNe-33" value="&lt;span&gt;体力值 = N （支持N次的免费hunter)&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ugmz32tfJayoeNNLECNe-34" value="图鉴合成：参考全民养恐龙" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
