@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T09:31:17.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="sZBt4ptKQ8ULNvWykiKU" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T09:32:53.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="wIYYABQB29mowdnW5u2v" version="15.3.8" type="github">
   <diagram id="YK3BCRvAKSalz-yeQjHO" name="Page-1">
     <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           <mxGeometry x="210" y="90" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fNUwa9mb9TOmf9XguNt5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="80" width="120" height="370" as="geometry" />
+          <mxGeometry x="50" y="80" width="120" height="350" as="geometry" />
         </mxCell>
         <mxCell id="fNUwa9mb9TOmf9XguNt5-19" value="监控&amp;amp;保护" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="90" width="100" height="20" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry x="260" y="100" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fNUwa9mb9TOmf9XguNt5-43" value="Ribbon 客户端负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="380" width="100" height="60" as="geometry" />
+          <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
