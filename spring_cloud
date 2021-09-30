@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T09:11:47.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="bAJeBV0sAyR-WR4kh_jU" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T09:13:20.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="280q30qeA7tQZ4hkmvoa" version="15.3.8" type="github">
   <diagram id="YK3BCRvAKSalz-yeQjHO" name="Page-1">
     <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,10 +49,10 @@
           <mxGeometry x="550" y="300" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fNUwa9mb9TOmf9XguNt5-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="460" width="630" height="45" as="geometry" />
+          <mxGeometry x="45" y="460" width="625" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fNUwa9mb9TOmf9XguNt5-29" value="数据层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="473" width="40" height="20" as="geometry" />
+          <mxGeometry x="60" y="460" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fNUwa9mb9TOmf9XguNt5-30" value="业务群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
@@ -71,6 +71,18 @@
         </mxCell>
         <mxCell id="fNUwa9mb9TOmf9XguNt5-36" value="spring cloud stream&lt;br&gt;数据流操做" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-37" value="HDFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="490" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-38" value="MySQL DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="490" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-39" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-40" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
