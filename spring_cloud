@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T07:54:01.849Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" version="15.3.8" etag="m7-iKKJIuveyr-jSyg8V" type="github"><diagram id="YK3BCRvAKSalz-yeQjHO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T08:14:16.890Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="e2AiwB4Gqo3iBtfi5geZ" version="15.3.8" type="github">
+  <diagram id="YK3BCRvAKSalz-yeQjHO" name="Page-1">
+    <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="" id="fNUwa9mb9TOmf9XguNt5-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="200" y="80" width="320" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-2" value="zuul" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-3" value="Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-4" value="API网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-6" value="限量降级" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-7" value="Sentinel高可用防护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="195" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-9" value="服务层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-10" value="可集成 Ribbon、OpenFeign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-11" value="Dubbo服务调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-12" value="Dubbo服务调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-13" value="Dubbo服务调用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-14" value="Seata分布式事务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="470" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-16" value="消息驱动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-17" value="RocketMQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="120" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-19" value="阿里云商业化组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-20" value="Alibaba Cloud ACM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-21" value="Alibaba Cloud OSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="225" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-22" value="Alibaba Cloud SchedulerX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="80" width="130" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-24" value="服务治理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-25" value="Nacos服务发现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-26" value="Nacos配置中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-27" value="Arths服务监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="555" width="630" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-29" value="数据层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="568" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
