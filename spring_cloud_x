@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T07:50:25.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="aMG18v83gH4LSSuZkBhH" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T06:53:39.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="hyTpWU8J3BTQshjGpORq" version="15.3.8" type="github">
   <diagram id="naP_7xUwh4-PAU7EgE6U" name="Page-1">
     <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,116 @@
         </mxCell>
         <mxCell id="dTiPdUVIt_GWHdTxFkej-33" value="数据层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="568" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="800" width="150" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="810" width="130" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="800" width="140" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="820" width="120" height="260" as="geometry" />
+        </mxCell>
+        <object label="" id="dTiPdUVIt_GWHdTxFkej-38">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="50" y="710" width="730" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-39" value="spring cloud gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="725" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-40" value="API网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-41" value="监控&amp;amp;保护" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="820" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-42" value="Sleuth/zipkin&lt;br&gt;链路跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="850" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-43" value="Sentinel 集群监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="930" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-44" value="Sentinel 容错保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1010" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-45" value="服务治理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655" y="820" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-46" value="Nacos 服务注册/发现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="850" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-47" value="Nacos配置中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="930" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-48" value="Config配置管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1010" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1310" width="730" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-50" value="数据层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-51" value="业务群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-52" value="业务群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-53" value="spring cloud task&lt;br&gt;任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="1060" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-54" value="RocketMQ&lt;br&gt;消息总线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1060" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-55" value="spring cloud data flow&lt;br&gt;大数据操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="980" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-56" value="spring cloud stream&lt;br&gt;数据流操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="980" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-57" value="HDFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="1330" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-58" value="MySQL DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="1330" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-59" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="1330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-60" value="spring cloud Feign&lt;br&gt;服务通信" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="890" width="186" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-61" value="zuul" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="725" width="227.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-62" value="Ribbon 客户端负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="890" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-63" value="业务群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-64" value="nginx负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="630" width="730" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-65" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1095" width="120" height="185" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-66" value="安全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-67" value="spring cloud security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-68" value="OAuth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-69" value="分布式日志(ELK)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1110" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
