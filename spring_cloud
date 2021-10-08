@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T06:47:29.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="5J3iFaOZU6yLjLSb2xg7" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T06:49:16.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="Z-cuwWoTVeltH-4JA01W" version="15.4.3" type="github">
   <diagram id="YK3BCRvAKSalz-yeQjHO" name="Page-1">
     <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
         <mxCell id="fNUwa9mb9TOmf9XguNt5-25" value="Consul服务注册/发现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="310" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fNUwa9mb9TOmf9XguNt5-26" value="Eureka服务注册/发现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="fNUwa9mb9TOmf9XguNt5-26" value="Eureka服务治理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="390" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fNUwa9mb9TOmf9XguNt5-27" value="Config配置管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
