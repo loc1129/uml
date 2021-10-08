@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T07:15:57.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="A9xTos4_nmn-qv6Ku3DA" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-08T07:17:24.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.54 Safari/537.36" etag="AwAryKhcFy_oc9HNt-x5" version="15.3.8" type="github">
   <diagram id="naP_7xUwh4-PAU7EgE6U" name="Page-1">
     <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,22 +122,22 @@
         <mxCell id="dTiPdUVIt_GWHdTxFkej-42" value="Sleuth/zipkin&lt;br&gt;链路跟踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="850" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dTiPdUVIt_GWHdTxFkej-43" value="Sentinel 集群监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-43" value="Alibaba Sentinel 集群监控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="930" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dTiPdUVIt_GWHdTxFkej-44" value="Sentinel 容错保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-44" value="Alibaba Sentinel 容错保护" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1010" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTiPdUVIt_GWHdTxFkej-45" value="服务治理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="655" y="820" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dTiPdUVIt_GWHdTxFkej-46" value="Nacos 服务注册/发现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-46" value="Alibaba Nacos 服务注册/发现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="850" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dTiPdUVIt_GWHdTxFkej-47" value="Nacos配置中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-47" value="Alibaba Nacos配置中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="930" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dTiPdUVIt_GWHdTxFkej-48" value="Nacos服务端负载均衡&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-48" value="Alibaba Nacos服务端负载均衡&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1010" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTiPdUVIt_GWHdTxFkej-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -152,7 +152,7 @@
         <mxCell id="dTiPdUVIt_GWHdTxFkej-52" value="业务群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dTiPdUVIt_GWHdTxFkej-53" value="spring cloud schedulerX&lt;br&gt;任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-53" value="Alibaba schedulerX&lt;br&gt;任务调度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="424" y="1060" width="186" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTiPdUVIt_GWHdTxFkej-54" value="RocketMQ&lt;br&gt;消息总线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -197,7 +197,7 @@
         <mxCell id="dTiPdUVIt_GWHdTxFkej-68" value="OAuth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="1200" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dTiPdUVIt_GWHdTxFkej-69" value="分布式日志(阿里云日志服务)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dTiPdUVIt_GWHdTxFkej-69" value="阿里云日志服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1110" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dTiPdUVIt_GWHdTxFkej-71" value="Alibaba Seata分布式事务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
