@@ -1,17 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-03-29T06:53:47.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="eRBTgCrIboOqK92mPq0W" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-29T07:01:24.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="w_dIstyKQHuNBY_jwvSn" version="17.2.4" type="github">
   <diagram id="BudtyA3a7RVHON39omUC" name="Page-1">
     <mxGraphModel dx="946" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5U0_3XFk5dxasFquXw5w-1" value="app 用户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="124" y="150" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5U0_3XFk5dxasFquXw5w-2" value="超A平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="348" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5U0_3XFk5dxasFquXw5w-3" value="阿里oss" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="584" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5U0_3XFk5dxasFquXw5w-2" target="5U0_3XFk5dxasFquXw5w-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="370" as="sourcePoint" />
+            <mxPoint x="324" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-5" value="短视频链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5U0_3XFk5dxasFquXw5w-4">
+          <mxGeometry x="-0.0962" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-6" value="阿里cdn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5U0_3XFk5dxasFquXw5w-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="400" as="sourcePoint" />
+            <mxPoint x="644" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-8" value="运营人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-9" value="上传短视频" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="5U0_3XFk5dxasFquXw5w-3">
+          <mxGeometry x="-0.1823" y="21" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="525" y="360" as="sourcePoint" />
+            <mxPoint x="590" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="310" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5U0_3XFk5dxasFquXw5w-3" target="5U0_3XFk5dxasFquXw5w-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="360" as="sourcePoint" />
+            <mxPoint x="700" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-11" value="返回短视频cdn链接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5U0_3XFk5dxasFquXw5w-10">
+          <mxGeometry x="-0.1385" y="1" relative="1" as="geometry">
+            <mxPoint x="33" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-12" value="配置短视频cdn链接" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5U0_3XFk5dxasFquXw5w-8" target="5U0_3XFk5dxasFquXw5w-2">
+          <mxGeometry x="0.5553" y="35" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="380" as="sourcePoint" />
+            <mxPoint x="460" y="330" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5U0_3XFk5dxasFquXw5w-1" target="5U0_3XFk5dxasFquXw5w-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="140" as="sourcePoint" />
+            <mxPoint x="240" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="184" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-14" value="通过CDN获取短视频" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5U0_3XFk5dxasFquXw5w-13">
+          <mxGeometry x="0.1411" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U0_3XFk5dxasFquXw5w-15" value="本地持久化缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
