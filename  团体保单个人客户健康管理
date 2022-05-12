@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T09:56:02.470Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="wqQhXvyscL7igWh-RGyp" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T01:48:32.425Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qLH7ZRa7CLGXXmRysRWN" version="17.5.0" type="github">
   <diagram id="IRK019HUjzLrf_xJG8hY" name="Page-1">
     <mxGraphModel dx="946" dy="511" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -72,6 +72,94 @@
         </mxCell>
         <mxCell id="GSriSSLmBSZuH9qlIL7o-24" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="659" y="260" width="59" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-25" value="业务员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61" y="784.5" width="89" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-26" value="筋斗云核心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="776" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-28" value="增值系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="773" width="62" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-29" value="权益发放" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-26" target="GSriSSLmBSZuH9qlIL7o-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="228" y="997" as="sourcePoint" />
+            <mxPoint x="287" y="938" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-30" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="915" width="89" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-32" value="超A平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="905.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-33" value="使用权益" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-32" target="GSriSSLmBSZuH9qlIL7o-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329" y="961" as="sourcePoint" />
+            <mxPoint x="401" y="936" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-35" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="770" width="65" height="302" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-36" value="在线问诊&lt;br&gt;购药" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.015;entryY=0.166;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-28" target="GSriSSLmBSZuH9qlIL7o-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="497" y="850" as="sourcePoint" />
+            <mxPoint x="547" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-37" value="订单回传" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-35" target="GSriSSLmBSZuH9qlIL7o-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1087" as="sourcePoint" />
+            <mxPoint x="484" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-38" value="订单回传" style="endArrow=classic;html=1;rounded=0;exitX=0.032;exitY=0.888;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="954" as="sourcePoint" />
+            <mxPoint x="339" y="948" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-39" value="在线问诊&lt;br&gt;购药" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-30" target="GSriSSLmBSZuH9qlIL7o-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177" y="1035" as="sourcePoint" />
+            <mxPoint x="227" y="985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-25" target="GSriSSLmBSZuH9qlIL7o-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="163" y="901" as="sourcePoint" />
+            <mxPoint x="213" y="851" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-41" value="出单" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GSriSSLmBSZuH9qlIL7o-40">
+          <mxGeometry x="0.0833" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-42" value="意健险理赔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="222" y="1006" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-44" value="开放平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1006" width="61" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.015;exitY=0.881;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-35" target="GSriSSLmBSZuH9qlIL7o-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="487" y="1045" as="sourcePoint" />
+            <mxPoint x="537" y="995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-46" value="理赔" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GSriSSLmBSZuH9qlIL7o-45">
+          <mxGeometry x="-0.1286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSriSSLmBSZuH9qlIL7o-47" value="理赔" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="GSriSSLmBSZuH9qlIL7o-44" target="GSriSSLmBSZuH9qlIL7o-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="86" y="1072" as="sourcePoint" />
+            <mxPoint x="136" y="1022" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
